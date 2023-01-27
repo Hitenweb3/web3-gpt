@@ -28,7 +28,7 @@ contract Marketplace {
     function purchaseItem(bytes32 _itemId) public payable {
         require(items[sellers[_itemId]
 
-/*
+/* 
 This is a create a smart contract for a decentralized marketplace where users can buy and sell digital goods using a cryptocurrency. 
 The marketplace will have a fixed fee for each transaction, and the smart contract will handle the transfer of funds between the buyer and seller, as well as the collection of the transaction fee.
 */
