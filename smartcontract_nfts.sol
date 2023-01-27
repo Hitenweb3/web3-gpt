@@ -45,6 +45,4 @@ The viewAddressNFT() function allows to view the NFT associated with a given add
 
 You also should note that, this contract is not dealing with any ERC721 or ERC1155 standard and it's using a mapping to store the NFTs associated with an address, which is not the correct way to store NFTs.
 
-
-
 */
